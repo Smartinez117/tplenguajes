@@ -11,3 +11,13 @@ en caso de agregar mas datos, quizas lo mas conveniente seria borras los archivo
 para volver a ejecutar los scripts de contruccion
 
 fuentes: https://openphish.com/feed.txt
+
+podria ser para agregar:
+suspicious = [
+    "login", "verify", "secure", "account", "bank",
+    "sign in", "click here", "update", "password",
+    "confirm", "suspend", "limited access",
+    "ingrese", "ingrese aqui", "haga clic",
+    "urgente", "inmediatamente"
+]
+
