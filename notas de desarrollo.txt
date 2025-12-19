@@ -1,0 +1,13 @@
+la carpeta data es donde se guardan las url sospechosas de phishing y no phising
+se ejecuta el archivo train_model para entrenar al modelo a predecir
+se ejecuta el archivo feature_extractor.py 
+
+train_model.py         --> como se aprende
+feacture_extractor.py  --> que se aprende (palabras clave)
+
+-en predict.py es donde se ingresa el dato para verificar si es o no phishing
+
+en caso de agregar mas datos, quizas lo mas conveniente seria borras los archivos de data 
+para volver a ejecutar los scripts de contruccion
+
+fuentes: https://openphish.com/feed.txt
