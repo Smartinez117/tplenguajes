@@ -21,3 +21,4 @@ suspicious = [
     "urgente", "inmediatamente"
 ]
 
+una segunda mejora podria ser el agregado de email a los datas creados url,email,label
