@@ -27,3 +27,4 @@ p = predict_phishing(
 )
 
 print("Probabilidad de phishing:", round(p, 3))
+#print(model) muestra del archivo phishing_model.joblib.
