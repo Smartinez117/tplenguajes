@@ -22,8 +22,8 @@ def predict_phishing(url, email_text=""):
 
 # dato a chequear
 p = predict_phishing(
-    "https://www.googlechrome.com/ar/ayuda",
-    "verify su cuenta antes de que se cierre"
+    "https://layanan-dana.teps",
+    "check your count"
 )
 
 print("Probabilidad de phishing:", round(p, 3))
